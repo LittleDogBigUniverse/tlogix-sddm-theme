@@ -1,0 +1,12 @@
+[SddmGreeterTheme]
+Name=ThoughtLogix
+Description=A SDDM theme for ThoughtLogix laptops
+License=CC-BY-SA
+Type=sddm-theme
+Version=0.1
+Screenshot=screenshot.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=tlogix
+Theme-API=2.0
